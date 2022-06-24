@@ -1,6 +1,6 @@
 ## Breaking Change Title
 
-The following cmdlets were affected this release:
+The following cmdlets were affected this release: 
 
 **Cmdlet-1**
 - Description of what has changed
